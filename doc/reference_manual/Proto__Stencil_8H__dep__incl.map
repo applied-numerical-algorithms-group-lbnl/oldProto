@@ -1,0 +1,14 @@
+<map id="Proto_Stencil.H" name="Proto_Stencil.H">
+<area shape="rect" id="node2" href="$Proto__BoxData_8H.html" title="Proto_BoxData.H" alt="" coords="697,80,823,107"/>
+<area shape="rect" id="node3" href="$Proto_8H.html" title="Proto.H" alt="" coords="627,155,693,181"/>
+<area shape="rect" id="node12" href="$Proto__WriteBoxData_8H.html" title="Proto_WriteBoxData.H" alt="" coords="731,155,887,181"/>
+<area shape="rect" id="node4" href="$EBProto_8H.html" title="EBProto.H" alt="" coords="472,229,557,256"/>
+<area shape="rect" id="node9" href="$Proto__EBBoxData_8H.html" title="Proto_EBBoxData.H" alt="" coords="654,304,796,331"/>
+<area shape="rect" id="node10" href="$Proto__EBFluxData_8H.html" title="Proto_EBFluxData.H" alt="" coords="821,304,965,331"/>
+<area shape="rect" id="node11" href="$Proto__EBHostData_8H.html" title="Proto_EBHostData.H" alt="" coords="5,304,152,331"/>
+<area shape="rect" id="node5" href="$Proto__EBGraph_8H.html" title="Proto_EBGraph.H" alt="" coords="451,304,577,331"/>
+<area shape="rect" id="node7" href="$Proto__EBDictionary_8H.html" title="Proto_EBDictionary.H" alt="" coords="357,453,507,480"/>
+<area shape="rect" id="node8" href="$Proto__GeometryService_8H.html" title="Proto_GeometryService.H" alt="" coords="177,304,351,331"/>
+<area shape="rect" id="node6" href="$Proto__EBStencil_8H.html" title="Proto_EBStencil.H" alt="" coords="502,379,633,405"/>
+<area shape="rect" id="node13" href="$Proto__DebugHooks_8H.html" title="Proto_DebugHooks.H" alt="" coords="749,229,899,256"/>
+</map>

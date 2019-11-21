@@ -1,0 +1,7 @@
+<map id="Proto::BaseIF" name="Proto::BaseIF">
+<area shape="rect" id="node2" href="$classProto_1_1AllRegularIF.html" title="Proto::AllRegularIF" alt="" coords="5,80,139,107"/>
+<area shape="rect" id="node3" href="$classProto_1_1SimpleGeometry.html" title="truly simple geometries can have some simplified bits about what is all covered or regular ..." alt="" coords="163,80,321,107"/>
+<area shape="rect" id="node4" href="$classProto_1_1PlaneIF.html" title="Proto::PlaneIF" alt="" coords="109,155,216,181"/>
+<area shape="rect" id="node5" href="$classProto_1_1SimpleEllipsoidIF.html" title="Ellipsoid. " alt="" coords="240,155,403,181"/>
+<area shape="rect" id="node6" href="$classProto_1_1SimpleSphereIF.html" title="Sphere. " alt="" coords="244,229,397,256"/>
+</map>

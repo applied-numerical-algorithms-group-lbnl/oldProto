@@ -1,0 +1,20 @@
+<map id="Proto_Point.H" name="Proto_Point.H">
+<area shape="rect" id="node2" href="$Proto_8H.html" title="Proto.H" alt="" coords="548,304,615,331"/>
+<area shape="rect" id="node5" href="$Proto__EBStencil_8H.html" title="Proto_EBStencil.H" alt="" coords="1003,528,1135,555"/>
+<area shape="rect" id="node6" href="$Proto__EBDictionary_8H.html" title="Proto_EBDictionary.H" alt="" coords="603,603,753,629"/>
+<area shape="rect" id="node7" href="$Proto__GeometryService_8H.html" title="Proto_GeometryService.H" alt="" coords="982,453,1156,480"/>
+<area shape="rect" id="node11" href="$Proto__Box_8H.html" title="Proto_Box.H" alt="" coords="785,80,881,107"/>
+<area shape="rect" id="node17" href="$Proto__RealVect_8H.html" title="Proto_RealVect.H" alt="" coords="1292,155,1420,181"/>
+<area shape="rect" id="node18" href="$Proto__BaseIF_8H.html" title="Proto_BaseIF.H" alt="" coords="1298,229,1413,256"/>
+<area shape="rect" id="node3" href="$EBProto_8H.html" title="EBProto.H" alt="" coords="636,379,721,405"/>
+<area shape="rect" id="node8" href="$Proto__EBBoxData_8H.html" title="Proto_EBBoxData.H" alt="" coords="145,453,287,480"/>
+<area shape="rect" id="node9" href="$Proto__EBFluxData_8H.html" title="Proto_EBFluxData.H" alt="" coords="483,453,628,480"/>
+<area shape="rect" id="node10" href="$Proto__EBHostData_8H.html" title="Proto_EBHostData.H" alt="" coords="311,453,459,480"/>
+<area shape="rect" id="node4" href="$Proto__EBGraph_8H.html" title="Proto_EBGraph.H" alt="" coords="729,453,855,480"/>
+<area shape="rect" id="node12" href="$Proto__BoxData_8H.html" title="Proto_BoxData.H" alt="" coords="620,155,745,181"/>
+<area shape="rect" id="node16" href="$Proto__HostBoxData_8H.html" title="Proto_HostBoxData.H" alt="" coords="725,304,877,331"/>
+<area shape="rect" id="node13" href="$Proto__Stencil_8H.html" title="Proto_Stencil.H" alt="" coords="628,229,743,256"/>
+<area shape="rect" id="node14" href="$Proto__WriteBoxData_8H.html" title="Proto_WriteBoxData.H" alt="" coords="346,229,501,256"/>
+<area shape="rect" id="node15" href="$Proto__DebugHooks_8H.html" title="Proto_DebugHooks.H" alt="" coords="349,304,499,331"/>
+<area shape="rect" id="node19" href="$Proto__SimpleImplicitFunctions_8H.html" title="Proto_SimpleImplicitFunctions.H" alt="" coords="1105,304,1319,331"/>
+</map>

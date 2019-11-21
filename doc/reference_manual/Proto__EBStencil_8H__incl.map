@@ -1,0 +1,13 @@
+<map id="Proto_EBStencil.H" name="Proto_EBStencil.H">
+<area shape="rect" id="node2" href="$Proto__RealVect_8H.html" title="Proto_RealVect.H" alt="" coords="389,252,517,279"/>
+<area shape="rect" id="node6" href="$Proto__Point_8H.html" title="Proto_Point.H" alt="" coords="2351,440,2455,467"/>
+<area shape="rect" id="node15" href="$Proto__Box_8H.html" title="Proto_Box.H" alt="" coords="2927,357,3024,384"/>
+<area shape="rect" id="node20" href="$Proto__BaseIF_8H.html" title="Proto_BaseIF.H" alt="" coords="197,155,312,181"/>
+<area shape="rect" id="node24" href="$Proto__HostBoxData_8H.html" title="Proto_HostBoxData.H" alt="" coords="593,252,745,279"/>
+<area shape="rect" id="node30" href="$Proto__EBGraph_8H.html" title="Proto_EBGraph.H" alt="" coords="2561,80,2687,107"/>
+<area shape="rect" id="node7" href="$Proto__cuda_8H.html" title="Proto_cuda.H" alt="" coords="2427,515,2529,541"/>
+<area shape="rect" id="node8" href="$Proto__PAssert_8H.html" title="Proto_PAssert.H" alt="" coords="3015,515,3136,541"/>
+<area shape="rect" id="node32" href="$EBProto_8H.html" title="EBProto.H" alt="" coords="2531,155,2616,181"/>
+<area shape="rect" id="node33" href="$Proto_8H.html" title="Proto.H" alt="" coords="3152,252,3219,279"/>
+<area shape="rect" id="node35" href="$Proto__LoHiSide_8H.html" title="Proto_LoHiSide.H" alt="" coords="3446,252,3572,279"/>
+</map>

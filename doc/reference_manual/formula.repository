@@ -1,0 +1,8 @@
+\form#0:$ \bf{Z}^{DIM} $
+\form#1:$DIM$
+\form#2:$\bf{Z}^{DIM}$
+\form#3:$[high[i] ,low[i]] : i \in [0,DIM)$
+\form#4:$\bf{p}\in\bf{Z}^{DIM}$
+\form#5:$\bf{p}: \bf{p}[k] = scale*\delta_{dir}^k$
+\form#6:$k$
+\form#7:$\forall\,k\,\in\,[0,DIM)$
